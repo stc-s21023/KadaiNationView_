@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">主要１５か国</string>
+    <string-array name="lv_kuni">
+        <item>日本</item>
+        <item>中国</item>
+        <item>韓国</item>
+        <item>アメリカ</item>
+        <item>北朝鮮</item>
+        <item>ロシア</item>
+        <item>イタリア</item>
+        <item>フランス</item>
+        <item>ブラジル</item>
+        <item>オーストラリア</item>
+        <item>カナダ</item>
+        <item>インド</item>
+        <item>ドイツ</item>
+        <item>エジプト</item>
+    </string-array>
+</resources>
